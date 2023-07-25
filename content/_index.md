@@ -8,4 +8,9 @@ Here is some content that I will get started getting used to this new environmen
 
 [Career](eddyqiu/Career.md)
 
-link pls
+Now that there is some sort of connection, here are some topics that I am interested in writing up about to expand my "garden":
+Self-improvement
+Lean startups
+Learning to build
+
+idekkkkkk stay tuned :))))))))))
