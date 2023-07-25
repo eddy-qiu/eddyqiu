@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "436f367779d1d0c7",
+            "id": "d4cd017c6b2fd61a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Career.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Career.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Career.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Career.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +145,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "436f367779d1d0c7",
+  "active": "d4cd017c6b2fd61a",
   "lastOpenFiles": [
-    "Untitled.md"
+    "Template.md",
+    "Career.md",
+    "Untitled.canvas",
+    "2023-07-21.md"
   ]
 }
