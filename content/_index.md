@@ -6,7 +6,6 @@ This is the start of my garden/e-brain! Basically, I can help structure my thoug
 
 Here is some content that I will get started getting used to this new environment with, which by the way is supported by Obsidian and Quartz.
 
-```Markdown
-[This is a link!](content/eddyqiu/Career.md)
-```
-[This is a link!](content/eddyqiu/Career.md)
+[[Career]]
+
+link pls
