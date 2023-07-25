@@ -6,6 +6,6 @@ This is the start of my garden/e-brain! Basically, I can help structure my thoug
 
 Here is some content that I will get started getting used to this new environment with, which by the way is supported by Obsidian and Quartz.
 
-[[Career]]
+[Career](eddyqiu/Career.md)
 
 link pls

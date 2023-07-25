@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f33b67014b3b4c8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Career.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,10 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4cd017c6b2fd61a",
+  "active": "f33b67014b3b4c8d",
   "lastOpenFiles": [
-    "Template.md",
+    "Leetcode.md",
     "Career.md",
+    "Template.md",
     "Untitled.canvas",
     "2023-07-21.md"
   ]
