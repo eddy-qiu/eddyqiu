@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career.md",
+                "file": "Leetcode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career.md",
+                "file": "Leetcode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career.md"
+                "file": "Leetcode.md"
               }
             }
           }
@@ -169,12 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4cd017c6b2fd61a",
+  "active": "f33b67014b3b4c8d",
   "lastOpenFiles": [
-    "Template.md",
-    "Leetcode.md",
     "Internships.md",
+    "Leetcode.md",
     "Career.md",
+    "Template.md",
     "Untitled.canvas",
     "2023-07-21.md"
   ]
