@@ -22,3 +22,4 @@ Shit is getting real now. Just got JP Morgan Hackerrank OA, very nervous for it 
 Attempt this one again in two days.
 Approach - bucket sort
 
+I'be kinda been taking a break recently 😅 due to having completed an OA recently. However, I have to stay on the grind, as a lot of other opportunities and things will pop up soon that I will have to be exceedingly ready with.
